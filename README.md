@@ -2,7 +2,11 @@
 
 # Install
 
-I have prepared this library with poetry, and created an install script that will help navigate the aws client.
+I have prepared this library with poetry and will be used as a package manager, and created an install script that will help navigate the aws client.
+<br>
+Please use ```bash poetry build```, and install with ```bash poetry install```, 
+<br>
+Afterwards, create a virtual enviornment ```bash poetry shell```
 <br>
 First please use ```bash chmod +x install.sh```
 <br>
